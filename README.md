@@ -1,1 +1,1 @@
-# Statistics-using-R
+Associated with WMU.
